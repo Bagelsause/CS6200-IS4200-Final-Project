@@ -1,0 +1,180 @@
+[{
+    "query": "slow-motion motorcycle crash",
+    "narrative": "this query should highlight a dramatic slow motion crash that clearly shows the motorcycle AND the crash, specifically in slow motion",
+    "possible-results": [
+        {
+            "link": "https://tenor.com/view/fail-bike-motorcycle-race-runaway-gif-3517863",
+            "visual clarity": 1,
+            "action matching": 0,
+            "relevance": 0
+        },
+        {
+            "link": "https://tenor.com/view/ops-accident-motorcycle-racing-fall-gif-4939877",
+            "visual clarity": 1,
+            "action matching": 1,
+            "relevance": 1
+        }
+    ]
+},
+{
+    "query": "happy celebration dance",
+    "narrative": "this query should show someone or something (animate or in-animate object) performing some form of celebratory dance in a happy mood",
+    "possible-results": [
+        {
+            "link": "https://tenor.com/view/party-party-time-its-time-to-party-time-to-party-party-hard-gif-11255475805218535145",
+            "visual clarity": 1,
+            "action matching": 1,
+            "relevance": 1
+        },
+        {
+            "link": "https://tenor.com/view/yay-seinfield-exciting-excited-dancing-gif-3251334391615369182",
+            "visual clarity": 1,
+            "action matching": 1,
+            "relevance": 1
+        }
+    ]
+},
+{
+    "query": "sad farewell waving",
+    "narrative": "this query should show someone or something (animate or in-animate object) in a sorrow/sorrowful mood waving",
+    "possible-results": [
+        {
+            "link": "https://tenor.com/view/bye-sad-waving-face-gif-5637274149426828892",
+            "visual clarity": 1,
+            "action matching": 1,
+            "relevance": 1
+        },
+        {
+            "link": "https://tenor.com/view/bye-bye-bye-cat-catgame-cat-game-gif-16979426998989135219",
+            "visual clarity": 1,
+            "action matching": 1,
+            "relevance": 1
+        }
+    ]
+},
+{
+    "query": "cat falling off table",
+    "narrative": "this query should show a cat clearly falling/jumping off of a table",
+    "possible-results": [
+        {
+            "link": "https://tenor.com/view/roll-over-cute-cat-epic-fail-fail-fall-gif-14224991",
+            "visual clarity": 1,
+            "action matching": 1,
+            "relevance": 1
+        },
+        {
+            "link": "https://tenor.com/view/cheese-challenge-cat-fall-off-table-taking-a-tumble-cheese-on-head-gif-1757873524679935804",
+            "visual clarity": 1,
+            "action matching": 1,
+            "relevance": 1
+        }
+    ]
+},
+{
+    "query": "sports goal celebration",
+    "narrative": "this query should show a reaction to some athletes celebrating a score of points in some sport, specifically after they score",
+    "possible-results": [
+        {
+            "link": "https://tenor.com/view/play-sports-ruben-neves-neves-portuguese-portuguese-footballer-gif-24984912",
+            "visual clarity": 1,
+            "action matching": 1,
+            "relevance": 1
+        },
+        {
+            "link": "https://tenor.com/view/happy-football-sport-soccer-celebration-gif-10753093510426400183",
+            "visual clarity": 1,
+            "action matching": 0,
+            "relevance": 0
+        }
+    ]
+},
+{
+    "query": "funny reaction face",
+    "narrative": "this query should show someone or something (animate or in-animate) making a funny face towards the camera",
+    "possible-results": [
+        {
+            "link": "https://tenor.com/view/reaction-meme-funny-penguin-weird-face-disgusted-reaction-animal-humor-gif-4395426491874007031",
+            "visual clarity": 1,
+            "action matching": 1,
+            "relevance": 0
+        },
+        {
+            "link": "https://tenor.com/view/making-funny-face-steve-terreberry-doing-a-silly-face-making-silly-expressions-gif-7599361352198396118",
+            "visual clarity": 1,
+            "action matching": 1,
+            "relevance": 1
+        }
+    ]
+},
+{
+    "query": "rainy day window view",
+    "narrative": "this query should focus on including a rainy window, either via a person looking through/at it OR just the window itself",
+    "possible-results": [
+        {
+            "link": "https://tenor.com/view/ashita-no-joe-joe-yabuki-looking-out-the-window-anime-tomorrow's-joe-gif-18192063139349713529",
+            "visual clarity": 1,
+            "action matching": 1,
+            "relevance": 1
+        },
+        {
+            "link": "https://tenor.com/view/cat-window-car-city-rain-gif-8958522195728036392",
+            "visual clarity": 1,
+            "action matching": 1,
+            "relevance": 0
+        }
+    ]
+},
+{
+    "query": "mic drop moment",
+    "narrative": "this query should show some form of dramatic moment where a person drops a microphone signifying something important/confident",
+    "possible-results": [
+        {
+            "link": "https://tenor.com/view/mic-drop-gif-11698834",
+            "visual clarity": 1,
+            "action matching": 1,
+            "relevance": 1
+        },
+        {
+            "link": "https://tenor.com/view/mike-ganino-ganino-mike-drop-method-mike-drop-moment-mike-drop-gif-730338093862067662",
+            "visual clarity": 1,
+            "action matching": 0,
+            "relevance": 0
+        }
+    ]
+},
+{
+    "query": "shocked expression wide eyes",
+    "narrative": "this query should show a person or thing expressing a shocked or surprised emotion, specifically with wide eyes (or similar)",
+    "possible-results": [
+        {
+            "link": "https://tenor.com/view/exo-do-kyungsoo-shocked-surprised-gif-20106568",
+            "visual clarity": 1,
+            "action matching": 1,
+            "relevance": 1
+        },
+        {
+            "link": "https://tenor.com/view/ballin-emoji-zoinks-bulging-eyes-what-the-hell-gif-15280678632019391692",
+            "visual clarity": 1,
+            "action matching": 1,
+            "relevance": 1
+        }
+    ]
+},
+{
+    "query": "explosive sneeze",
+    "narrative": "this query should show someone or something (animate or in-animate) sneezing and it being visually explosive/sudden",
+    "possible-results": [
+        {
+            "link": "https://tenor.com/view/boom-russian-russia-russ-putin-gif-20588269",
+            "visual clarity": 1,
+            "action matching": 1,
+            "relevance": 1
+        },
+        {
+            "link": "https://tenor.com/view/husky-sneeze-cute-gif-15211626",
+            "visual clarity": 1,
+            "action matching": 1,
+            "relevance": 1
+        }
+    ]
+}]
