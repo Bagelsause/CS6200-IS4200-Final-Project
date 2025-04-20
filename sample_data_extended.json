@@ -1,7 +1,7 @@
 [
     {
         "query": "slow-motion motorcycle crash",
-        "narrative": "Auto-generated narrative for slow-motion motorcycle crash.",
+        "narrative": "this query should highlight a dramatic slow motion crash that clearly shows the motorcycle AND the crash, specifically in slow motion. The motorcycle should be the main focus of the crash.",
         "possible-results": [
             {
                 "link": "https://media.tenor.com/R8glnb3Kcf0AAAAC/crash-landing-on-you-cloy.gif",
@@ -494,7 +494,7 @@
     },
     {
         "query": "happy celebration dance",
-        "narrative": "Auto-generated narrative for happy celebration dance.",
+        "narrative": "this query should show someone or something (animate or in-animate object) performing some form of celebratory dance in a happy mood. the dance should be clearly visible and the person or object should be in a happy mood.",
         "possible-results": [
             {
                 "link": "https://media.tenor.com/3Vzyt_aUobAAAAAC/gauge.gif",
@@ -917,7 +917,7 @@
     },
     {
         "query": "sad farewell waving",
-        "narrative": "Auto-generated narrative for sad farewell waving.",
+        "narrative": "this query should show someone or something (animate or in-animate object) in a sorrow/sorrowful mood waving goodbye. the waving should be clearly visible and the person or object should be in a sad mood.",
         "possible-results": [
             {
                 "link": "https://media.tenor.com/GwTneAH7HnQAAAAC/trigun-trigun98.gif",
@@ -1432,7 +1432,7 @@
     },
     {
         "query": "cat falling off table",
-        "narrative": "Auto-generated narrative for cat falling off table.",
+        "narrative": "this query should show a cat clearly falling/jumping off of a table or other surface. the cat should be in a state of falling and the action should be clearly visible.",
         "possible-results": [
             {
                 "link": "https://media.tenor.com/VFsZU7z4RjUAAAAC/roll-over-cute-cat.gif",
@@ -1886,7 +1886,7 @@
     },
     {
         "query": "sports goal celebration",
-        "narrative": "Auto-generated narrative for sports goal celebration.",
+        "narrative": "this query should show a reaction to some athletes celebrating a score of points in some sport, specifically after they score a goal. the action should be clearly visible and the athlete should be in a state of celebration.",
         "possible-results": [
             {
                 "link": "https://media.tenor.com/Ej8l9xruz_4AAAAC/play-sports-ruben-neves.gif",
@@ -2527,7 +2527,7 @@
     },
     {
         "query": "funny reaction face",
-        "narrative": "Auto-generated narrative for funny reaction face.",
+        "narrative": "this query should show someone or something (animate or in-animate) making a funny face towards the camera. the face should be clearly visible and the action should be clearly visible.",
         "possible-results": [
             {
                 "link": "https://media.tenor.com/zVIfmw8J0sUAAAAC/elliotte-elliotte-friedman.gif",
@@ -3049,7 +3049,7 @@
     },
     {
         "query": "rainy day window view",
-        "narrative": "Auto-generated narrative for rainy day window view.",
+        "narrative": "this query should focus on including a rainy window, either via a person looking through/at it OR just the window itself. the rain should be clearly visible and the window should be clearly visible.",
         "possible-results": [
             {
                 "link": "https://media.tenor.com/_HcxCiBq0nkAAAAC/ashita-no-joe-joe-yabuki.gif",
@@ -3473,7 +3473,7 @@
     },
     {
         "query": "mic drop moment",
-        "narrative": "Auto-generated narrative for mic drop moment.",
+        "narrative": "this query should show some form of dramatic moment where a person drops a microphone signifying something important/confident. this can be a person dropping a mic, or a person doing something that signifies a mic drop moment.",
         "possible-results": [
             {
                 "link": "https://media.tenor.com/gMnbeVNqRJ8AAAAC/mic-drop.gif",
@@ -3959,7 +3959,7 @@
     },
     {
         "query": "shocked expression wide eyes",
-        "narrative": "Auto-generated narrative for shocked expression wide eyes.",
+        "narrative": "this query should show a person or thing expressing a shocked or surprised emotion, specifically with wide eyes (or similar). this can be a person with wide eyes, or a person doing something that signifies a shocked expression.",
         "possible-results": [
             {
                 "link": "https://media.tenor.com/i1IOGT6_u6wAAAAC/exo-do.gif",
@@ -4500,7 +4500,7 @@
     },
     {
         "query": "explosive sneeze",
-        "narrative": "Auto-generated narrative for explosive sneeze.",
+        "narrative": "this query should show someone or something (animate or in-animate) sneezing and it being visually explosive/sudden. this can be a person sneezing, or an object exploding in a sneeze-like manner.",
         "possible-results": [
             {
                 "link": "https://media.tenor.com/K-ezGZB4AEAAAAAC/boom-russian.gif",
